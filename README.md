@@ -11,7 +11,7 @@
 
 
 # Deploy
-social-link-ninas.vercel.app
+https://social-link-ninas.vercel.app
 
 
 
