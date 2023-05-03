@@ -24,8 +24,7 @@ social-link-ninas.vercel.app
 
 # Video
 
-
-
+https://user-images.githubusercontent.com/104739434/235910212-49ad90c6-1593-4144-aa33-e22a5ec2218e.mov
 
 
 
